@@ -4,17 +4,23 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../Source/adc.c \
 ../Source/i2cmaster.c \
+../Source/light_ws2812.c \
 ../Source/main.c \
 ../Source/uart.c 
 
 OBJS += \
+./Source/adc.o \
 ./Source/i2cmaster.o \
+./Source/light_ws2812.o \
 ./Source/main.o \
 ./Source/uart.o 
 
 C_DEPS += \
+./Source/adc.d \
 ./Source/i2cmaster.d \
+./Source/light_ws2812.d \
 ./Source/main.d \
 ./Source/uart.d 
 
