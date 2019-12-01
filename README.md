@@ -10,3 +10,5 @@ If you want to contribute or offer a advice you are welcome :)
 
 If you want to use this code for your project, feel free to but consider it is not well commented and for certain not perfect, it just works for me.
 
+
+This Project was created with AVR-Plugin for Eclipse.
