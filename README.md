@@ -1,6 +1,8 @@
 # MicroDrone
 Flight Controller software for brushed drone using ATMega328p (Arduino Nano)
 
+<img src="PHOTO_20191109_231111.jpg" width="400">
+
 This project was inspired by Jop Brokking and his YMFC-3D series and the code originated from him (big thanks for sharing your code! )
 It was however "improved" to fit the atmega328p and fully use the features like PWM timers and so on. 
 
